@@ -1,4 +1,4 @@
-#!/bib/bash
+#!/bin/bash
 SERVER="44.201.102.206"
 LOGFILE="/var/log/network_connectivity.log"
 TIMEOUT=5
